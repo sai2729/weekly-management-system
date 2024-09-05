@@ -1,0 +1,91 @@
+Event No: 1
+Event Name: OS
+Start Date: 2024-04-21
+End Date: 2024-04-21
+Start Time: 10:00
+End Time: 11:00
+Host: Sai2729
+Invitees: Shal123
+
+Event No: 2
+Event Name: PNW
+Start Date: 2024-04-21
+End Date: 2024-04-21
+Start Time: 03:00
+End Time: 05:00
+Host: Sai2729
+Invitees: Aneesh123
+
+Event No: 3
+Event Name: LAB
+Start Date: 2024-04-21
+End Date: 2024-04-21
+Start Time: 20:00
+End Time: 23:00
+Host: Sai2729
+Invitees: Shal123
+
+Event No: 4
+Event Name: Project
+Start Date: 2024-04-22
+End Date: 2024-04-22
+Start Time: 06:00
+End Time: 07:00
+Host: Sai2729
+Invitees: Shal123
+
+Event No: 5
+Event Name: CN
+Start Date: 2024-04-20
+End Date: 2024-04-20
+Start Time: 08:00
+End Time: 09:00
+Host: Sai2729
+Invitees: Shal123
+
+Event No: 6
+Event Name: Presentation
+Start Date: 2024-04-23
+End Date: 2024-04-23
+Start Time: 09:00
+End Time: 10:00
+Host: Shal123
+Invitees: Sai2729
+
+Event No: 7
+Event Name: Cricket - edited
+Start Date: 2024-04-27
+End Date: 2024-04-27
+Start Time: 13:00
+End Time: 14:00
+Host: Sai2729
+Invitees: Shal123
+
+Event No: 8
+Event Name: RALLY
+Start Date: 2024-04-30
+End Date: 2024-04-30
+Start Time: 16:00
+End Time: 17:00
+Host: Sai2729
+Invitees: Shalini123
+
+SCHEDULE IN TABLE FORMAT +
+
+Event ID,Event Name,Start Date,End Date,Start Time,End Time,Host,Invitees
+  1,OS,2024-04-21,2024-04-21,10:00,11:00,Sai2729,Shal123
+--------------------------------------------------------------------------------
+  2,PNW,2024-04-21,2024-04-21,03:00,05:00,Sai2729,Aneesh123
+--------------------------------------------------------------------------------
+  3,LAB,2024-04-21,2024-04-21,20:00,23:00,Sai2729,Shal123
+--------------------------------------------------------------------------------
+  4,Project,2024-04-22,2024-04-22,06:00,07:00,Sai2729,Shal123
+--------------------------------------------------------------------------------
+  5,CN,2024-04-20,2024-04-20,08:00,09:00,Sai2729,Shal123
+--------------------------------------------------------------------------------
+  6,Presentation,2024-04-23,2024-04-23,09:00,10:00,Shal123,Sai2729
+--------------------------------------------------------------------------------
+  7,Cricket - edited,2024-04-27,2024-04-27,13:00,14:00,Sai2729,Shal123
+--------------------------------------------------------------------------------
+  8,RALLY,2024-04-30,2024-04-30,16:00,17:00,Sai2729,Shalini123
+--------------------------------------------------------------------------------
