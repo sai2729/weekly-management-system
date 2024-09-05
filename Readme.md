@@ -10,6 +10,12 @@ Welcome to the Weekly Management System! This application enables users to effic
 - Organize and manage your week efficiently.
 - View, edit, and delete events.
 
+## Technologies Used
+- Java
+- Swing for UI
+- SQLite for the database
+- MVC architecture
+
 ## Prerequisites
 Before you begin, ensure you have the following software installed:
 - **Eclipse**: An IDE that supports Java and Swing projects.
@@ -38,4 +44,8 @@ To run the Weekly Management System, execute the following steps:
 1. Open the `main.java` file within Eclipse.
 2. Compile the code using `javac main.java`.
 3. Run the compiled file with `java main`.
+
+## Contributing
+Contributions are welcome! Please fork this repository and submit a pull request for any improvements or suggestions.
+
 
