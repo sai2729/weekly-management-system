@@ -4,6 +4,12 @@
 ## Introduction
 Welcome to the Weekly Management System! This application enables users to efficiently manage their weekly scheduling needs. It offers features to schedule events, invite participants, and keep your week organized.
 
+## Features
+- Schedule weekly events.
+- Invite participants to events.
+- Organize and manage your week efficiently.
+- View, edit, and delete events.
+
 ## Prerequisites
 Before you begin, ensure you have the following software installed:
 - **Eclipse**: An IDE that supports Java and Swing projects.
