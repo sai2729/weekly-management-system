@@ -48,4 +48,58 @@ To run the Weekly Management System, execute the following steps:
 ## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements or suggestions.
 
+## Screenshots
 
+1. **User Login Page**  
+   ![User Login Page](Screenshots/User_Login_Page.png)
+
+2. **User Signup Page**  
+   ![User Signup Page](Screenshots/User_Signup_page.png)
+
+3. **Incorrect Details Popup**  
+   ![Incorrect Details Popup](Screenshots/Incorrect_details_popup.png)
+
+4. **Login Successful**  
+   ![Login Successful](Screenshots/Login_Successful.png)
+
+5. **User Schedule**  
+   ![User Schedule](Screenshots/User_Schedule.png)
+
+6. **Add Event**  
+   ![Add Event](Screenshots/Add_Event.png)
+
+7. **Event Added**  
+   ![Event Added](Screenshots/Event_added.png)
+
+8. **Editing Event Upon Clicking on Event**  
+   ![Editing Event Upon Clicking on Event](Screenshots/Editing_event_upon_clicking_on_event.png)
+
+9. **Edited Successfully**  
+   ![Edited Successfully](Screenshots/Edited_succesfully.png)
+
+10. **Edited Event Showing in Table**  
+    ![Edited Event Showing in Table](Screenshots/Edited_event_showing_in_table.png)
+
+11. **Deleting Event**  
+    ![Deleting Event](Screenshots/Deleting_Event.png)
+
+12. **Event Deleted**  
+    ![Event Deleted](Screenshots/Event_Deleted.png)
+
+13. **Login with Admin**  
+    ![Login with Admin](Screenshots/Login_with_Admin.png)
+
+14. **Schedule of All Users**  
+    ![Schedule of All Users](Screenshots/schedule_of_all_users.png)
+
+15. **Dropdown to Switch Between Users**  
+    ![Dropdown to Switch Between Users](Screenshots/Dropdown_to_switc_between_users.png)
+
+16. **Database Tables**  
+    ![Database Tables](Screenshots/Database_Tables.png)
+
+17. **Users Table**  
+    ![Users Table](Screenshots/Users_Table.png)
+
+18. **User Events Table**  
+    ![User Events Table](Screenshots/User_Events_Table.png)
